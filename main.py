@@ -1,7 +1,10 @@
 import alpaca_trade_api as tradeapi
 import numpy as np
 import time
+import discord
 
+TOKEN = 'OTYwMjc1MTk1MTcwNTI5Mjkx.YkoD9w.iRvuiq1pvS_ceUK3ZTQIHtFIJlI'
+GUILD = 'For TraderMan'
 
 SEC_KEY = 'QzEjCqivJgBpqKwMIbwCFvi6UJfJFLQFnet1Z3z2'  # Secret key here
 PUB_KEY = 'PKRJ0ZV37O592S4C5LLK'  # public key here
